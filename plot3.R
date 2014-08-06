@@ -15,7 +15,7 @@ with(filteredPower,
        type = "l",
        main = "",
        xlab = "",
-       ylab = "Global Active Power (kilowatts)")
+       ylab = "Energy sub metering")
 )
 
 with(filteredPower,
